@@ -1,5 +1,4 @@
-node --inspect-brk  /Users/kevin/Documents/git/chameleon/packages/chameleon-tool/chamele
-on.js build
+node --inspect-brk  /Users/kevin/Documents/git/chameleon/packages/chameleon-tool/chameleon.js build
 
 # <img src="https://cmljs.org/doc/assets/100*100.png"/> Chameleon [![Build Status](https://www.travis-ci.org/didi/chameleon.svg?branch=master)](https://www.travis-ci.org/didi/chameleon) [![license](https://img.shields.io/npm/l/chameleon-tool.svg?registry_uri=https%3A%2F%2Fregistry.npmjs.com&style=popout-square)](https://www.npmjs.com/package/
 
