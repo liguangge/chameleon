@@ -1,12 +1,15 @@
 node --inspect-brk  /Users/kevin/Documents/git/chameleon/packages/chameleon-tool/chameleon.js wx build
 
+open -n /Applications/Google\ Chrome.app/ --args --disable-web-security  --user-data-dir=/Users/kevin/MyChromeDevUserData/
+
 
 vuejs、微信小程序、mpvue、taro、chameleon、webpack、babel的使用和基本原理
 electron + chrome-devtool + monaco-editor
 浏览器内核的性能、稳定性和兼容性
 vue_dev、mpvue doc、cml-demo、chameleon-tool build,
 
-函数柯里化 vuejs和cml对比
+函数柯里化 
+vuejs和cml对比
 虚拟domview
 入口entry
 vue_router
@@ -15,7 +18,7 @@ vue_router
 各种插件引出ast
 vue源码-》例子 -》说明
 mpvue功能介绍 -》 源码、webpack
-chameleon功能介绍 -》 源码 -》 debug webpack 、debug template 、 debug runtime
+chameleon功能介绍 -》 示例demo -》源码 -》 debug webpack 、debug template 、 debug runtime、debug 接口组件例子
 总结chameleon语法 -》 ast
 
 
