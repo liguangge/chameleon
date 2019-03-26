@@ -25,6 +25,7 @@ exports.compileTemplateForCml = function (source, type, options) {
 
   if (type === 'web') {
     source = compileWebTemplate(source, type, options).code;
+    debugger
   }
   if (type === 'weex') {
     source = compileWeexTemplate(source, type, options).code;

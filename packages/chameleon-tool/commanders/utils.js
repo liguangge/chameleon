@@ -39,6 +39,7 @@ exports.getBuildPromise = async function (media, type) {
       });
     } else {
       // build模式
+      debugger
       webpack(webpackConfig, (err, stats) => {
         if (err) {
           reject(err);
